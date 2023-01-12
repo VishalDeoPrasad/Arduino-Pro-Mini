@@ -1,5 +1,5 @@
-int switchPin = 4;
-int ledPin = 3;
+int switchPin = 3;
+int ledPin = 2;
 int state;
 void setup() {
   pinMode(ledPin, OUTPUT);
